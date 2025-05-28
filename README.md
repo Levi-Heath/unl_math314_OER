@@ -9,4 +9,4 @@ The Python script in the LaTeX_to_PreTeXt_Converter performs an adhoc conversion
 
 This particular repository contains the version of the OER that was used at UNL during the academic year 2024-2025.
 
-For the latest version, which features more significant edits, see Levi-Heath/unl_math314_OER.
+For the latest version, which features more significant edits, see https://github.com/Levi-Heath/unl_math314_OER.
